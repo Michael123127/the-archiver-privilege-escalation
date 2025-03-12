@@ -1,1 +1,2 @@
 # the-archiver-privilege-escalation
+Conducted as part of my cybersecurity training at HackerU, this project focused on identifying and exploiting vulnerabilities associated with privilege escalation. The assessment specifically targeted SetUID misconfigurations and improper file permissions, successfully demonstrating how these issues can enable unauthorized access to sensitive data. Detailed methodology, findings, and security recommendations are documented in the attached PDF report.
